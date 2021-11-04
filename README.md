@@ -1,6 +1,6 @@
 # OnlineStore
 My Online Shopping Store
-#Dependencies
+# Dependencies
 - Python 3.8
 - Flask
 - Mongodb
